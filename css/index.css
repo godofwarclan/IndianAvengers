@@ -1,0 +1,71 @@
+#head {
+  color: white;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+  margin: 20px;
+}
+
+#index {
+  background: url('../images/background.jpg');
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+}
+
+#rules {
+  background: url('../images/background.jpg');
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+}
+
+#baseDesign {
+  background: url('../images/background.jpg');
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+}
+
+#guide {
+  background: url('../images/background.jpg');
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+}
+
+#points {
+  font-size: 20px;
+}
+
+.body {
+  margin-top: 10px;
+}
+
+p {
+  font-family: 'Slabo 27px', serif;
+  font-size: 30px;
+}
+
+#description {
+  margin-top: 10px;
+  color: white;
+  height: 100%;
+}
+
+.baseDesign {
+  width: 95%;
+  margin-top: 10px;
+}
+
+.designs {
+  margin-top: 50px;
+}
+
+.footer {
+  background-color: #565667;
+  text-align: center;
+}
